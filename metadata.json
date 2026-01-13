@@ -1,0 +1,5 @@
+{
+  "name": "SmartDebt - Quản lý Công nợ Thông minh",
+  "description": "Một ứng dụng quản lý công nợ trực quan, đơn giản dành cho cá nhân và doanh nghiệp nhỏ, tích hợp AI để phân tích rủi ro và gợi ý thu hồi nợ.",
+  "requestFramePermissions": []
+}
