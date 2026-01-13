@@ -1,5 +1,6 @@
+
 {
-  "name": "smartdebt",
+  "name": "smartdebt-app",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -14,6 +15,7 @@
     "recharts": "^2.12.7"
   },
   "devDependencies": {
+    "@types/node": "^20.0.0",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
     "@vitejs/plugin-react": "^4.3.1",
